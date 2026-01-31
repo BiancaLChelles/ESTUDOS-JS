@@ -1,6 +1,7 @@
 # Registros no JavaScript 
 
-Este repositório registra minha evolução na lógica de programação e domínio técnico do JavaScript. Aqui, busco entender o 'porquê' das coisas em vez de apenas decorar comandos. 
+Este repositório registra minha evolução na lógica de programação e domínio técnico do JavaScript. 
+Aqui, busco entender o 'porquê' das coisas em vez de apenas decorar comandos. 
 
 Minha jornada é marcada pela curiosidade de entender como tudo funciona, desde o comportamento do hardware até a lógica por trás de cada linha de um código.
 
@@ -44,7 +45,7 @@ Mais do que código, meu diferencial é a **transposição de conhecimentos**:
 
 ---
 
-> "Se programar é prever o erro e agir... Continuarei errando, continuarei agindo..."
+> "Se programar é prever o erro e agir, sigo errando, sigo agindo."
 
 ---
 
