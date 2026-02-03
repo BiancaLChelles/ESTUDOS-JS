@@ -50,4 +50,3 @@ Mais do que código, meu diferencial é a **transposição de conhecimentos**:
 > "Se programar é prever o erro e agir, sigo errando, sigo agindo."
 
 ---
-
