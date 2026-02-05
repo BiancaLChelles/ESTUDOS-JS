@@ -11,6 +11,6 @@ function digaOi(nome, sobrenome, idade) {
 }
 
 // Invocação da função passando os dados necessários
-// Aqui "chamamos" a função e entregamos os valores então ela os processa e nos apresenta o resultado
+// Aqui "chamamos" a função e entregamos os valores, então ela os processa e nos apresenta o resultado.
 
 console.log(digaOi('Bianca', 'Lourenço', 23));
