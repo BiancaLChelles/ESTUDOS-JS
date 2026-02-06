@@ -1,4 +1,5 @@
 // Arrays onde vão os dados
+//Aqui escolhemos quais tabuadas e até onde elas calcularão
 
 const multiplicador = [3, 7];
 const multiplicando = [1, 2, 3, 4, 5, 6, 7, 8, 9];
