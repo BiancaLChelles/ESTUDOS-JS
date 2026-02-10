@@ -2,7 +2,6 @@
 let T = ' '; 
 
 
-
 // Apartir desta linha o usuario não deve mexer
 
 // Início da verificação lógica
