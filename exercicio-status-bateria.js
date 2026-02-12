@@ -39,20 +39,3 @@ console.log (statusBateria) 
 // o usuario pode modificar AS VARIAVEIS de acordo com o caso real, executar o código e aguardar que o retorno será exibido no console
 // neste caso, a função só funcionará, caso as duas variaveis tenham sido declaradas com valores em numeros inteiros (int)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-assim ta certo? (eu não vou dar valores pras variaveis da função quem vai fazer isso é o usuario, só quero saber se está funcional e correto
