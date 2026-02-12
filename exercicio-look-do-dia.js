@@ -8,4 +8,12 @@ let short2 = "verde";
 
 // Aqui temos a saida de texto no sistema, preenchendo as lacunas com os valores correspondentes aos das variaveis chamadas
 
-console.log ( " A Flávia está usando uma blusa " + camiseta1 + " e um shorts " + short1 + " \n Já a Renata, esta usando uma blusa " + camiseta2 + " e um shorts " + short2 + " \n ESSE È O LOOK DE HOJE!!!")
+console.log ( `
+    
+    A Flávia está usando uma blusa ${camiseta1} e um short ${short1}.
+    Já a Renata, está usando uma blusa ${camiseta2} e um short ${short2}.
+    ESSE É O LOOK DE HOJE !!!
+
+    `
+    
+)
